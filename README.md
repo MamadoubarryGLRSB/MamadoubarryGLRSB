@@ -2,6 +2,9 @@
 
 <div align="center">
 
+## 🔥 Bedwars winstreak :
+<img src="https://streak-stats.demolab.com/?user=MamadoubarryGLRSB&theme=dark&hide_border=true" width="450" alt="GitHub Streak Stats"/>
+
 <br/><br/>
 
 ## 💻 Randomly smashing my keyboard produces :
@@ -10,7 +13,7 @@
 <br/><br/>
 
 ## 📊 Statistiques GitHub :
-<img src="https://github-readme-stats.vercel.app/api?username=MamadoubarryGLRSB&show_icons=true&theme=dark&count_private=true&hide_border=true" width="450" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MamadoubarryGLRSB&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true" width="450" alt="GitHub Stats"/>
 
 </div>
 
