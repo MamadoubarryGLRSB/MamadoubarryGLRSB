@@ -2,9 +2,6 @@
 
 <div align="center">
 
-## 🔥 Bedwars winstreak :
-<img src="https://streak-stats.demolab.com/?user=MamadoubarryGLRSB&theme=dark&hide_border=true" width="450" alt="GitHub Streak Stats"/>
-
 <br/><br/>
 
 ## 💻 Randomly smashing my keyboard produces :
